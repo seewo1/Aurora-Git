@@ -1,0 +1,13 @@
+G:\Бумаги\Doc\ПРИС_2024\Opa\bin\Debug\Opa.exe.config
+G:\Бумаги\Doc\ПРИС_2024\Opa\bin\Debug\Opa.exe
+G:\Бумаги\Doc\ПРИС_2024\Opa\bin\Debug\Opa.pdb
+G:\Бумаги\Doc\ПРИС_2024\Opa\obj\Debug\Opa.csproj.AssemblyReference.cache
+G:\Бумаги\Doc\ПРИС_2024\Opa\obj\Debug\Opa.Properties.Resources.resources
+G:\Бумаги\Doc\ПРИС_2024\Opa\obj\Debug\Opa.csproj.GenerateResource.cache
+G:\Бумаги\Doc\ПРИС_2024\Opa\obj\Debug\Opa.csproj.CoreCompileInputs.cache
+G:\Бумаги\Doc\ПРИС_2024\Opa\obj\Debug\Opa.exe
+G:\Бумаги\Doc\ПРИС_2024\Opa\obj\Debug\Opa.pdb
+G:\Бумаги\Doc\ПРИС_2024\Opa\obj\Debug\Opa.MainForm.resources
+G:\Бумаги\Doc\ПРИС_2024\Opa\obj\Debug\Opa.DepartmentForm.resources
+G:\Бумаги\Doc\ПРИС_2024\Opa\obj\Debug\Opa.WorkerForm.resources
+G:\Бумаги\Doc\ПРИС_2024\Opa\bin\Debug\AuroraDB.accdb
