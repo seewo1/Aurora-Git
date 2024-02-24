@@ -20,7 +20,7 @@ namespace Opa
 
         private void MainForm_Load(object sender, EventArgs e)
         {
-            this.ControlBox = false; // убираем крестик и другие кнопки
+            this.ControlBox = false; 
 
             string path = Application.ExecutablePath;
             string path2 = "connect.txt"; // наименование текстового файла для подключения
