@@ -1,22 +1,30 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "G:\\\u0411\u0443\u043C\u0430\u0433\u0438\\Doc\\\u041F\u0420\u0418\u0421_2024\\Opa\\",
+  "WorkspaceRootPath": "C:\\Users\\ecuri\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\IS - AURORA\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{97505F19-F593-4C7B-A624-826BD976D338}|Opa.csproj|G:\\\u0411\u0443\u043C\u0430\u0433\u0438\\Doc\\\u041F\u0420\u0418\u0421_2024\\Opa\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{97505F19-F593-4C7B-A624-826BD976D338}|Opa.csproj|solutionrelative:mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{97505F19-F593-4C7B-A624-826BD976D338}|Opa.csproj|c:\\users\\ecuri\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\is - aurora\\startform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97505F19-F593-4C7B-A624-826BD976D338}|Opa.csproj|solutionrelative:startform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{97505F19-F593-4C7B-A624-826BD976D338}|Opa.csproj|g:\\\u0431\u0443\u043C\u0430\u0433\u0438\\doc\\\u043F\u0440\u0438\u0441_2024\\opa\\departmentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{97505F19-F593-4C7B-A624-826BD976D338}|Opa.csproj|c:\\users\\ecuri\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\is - aurora\\startform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{97505F19-F593-4C7B-A624-826BD976D338}|Opa.csproj|solutionrelative:startform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97505F19-F593-4C7B-A624-826BD976D338}|Opa.csproj|C:\\Users\\ecuri\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\IS - AURORA\\departmentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{97505F19-F593-4C7B-A624-826BD976D338}|Opa.csproj|solutionrelative:departmentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{97505F19-F593-4C7B-A624-826BD976D338}|Opa.csproj|G:\\\u0411\u0443\u043C\u0430\u0433\u0438\\Doc\\\u041F\u0420\u0418\u0421_2024\\Opa\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{97505F19-F593-4C7B-A624-826BD976D338}|Opa.csproj|C:\\Users\\ecuri\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\IS - AURORA\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{97505F19-F593-4C7B-A624-826BD976D338}|Opa.csproj|solutionrelative:mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{97505F19-F593-4C7B-A624-826BD976D338}|Opa.csproj|G:\\\u0411\u0443\u043C\u0430\u0433\u0438\\Doc\\\u041F\u0420\u0418\u0421_2024\\Opa\\mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{97505F19-F593-4C7B-A624-826BD976D338}|Opa.csproj|C:\\Users\\ecuri\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\IS - AURORA\\mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{97505F19-F593-4C7B-A624-826BD976D338}|Opa.csproj|solutionrelative:mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97505F19-F593-4C7B-A624-826BD976D338}|Opa.csproj|c:\\users\\ecuri\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\is - aurora\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{97505F19-F593-4C7B-A624-826BD976D338}|Opa.csproj|solutionrelative:mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -29,12 +37,49 @@
           "SelectedChildIndex": 3,
           "Children": [
             {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StartForm.cs",
+              "DocumentMoniker": "C:\\Users\\ecuri\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\IS - AURORA\\StartForm.cs",
+              "RelativeDocumentMoniker": "StartForm.cs",
+              "ToolTip": "C:\\Users\\ecuri\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\IS - AURORA\\StartForm.cs",
+              "RelativeToolTip": "StartForm.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-26T20:01:12.772Z",
+              "EditorCaption": ""
+            },
+            {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "StartForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\ecuri\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\IS - AURORA\\StartForm.cs",
+              "RelativeDocumentMoniker": "StartForm.cs",
+              "ToolTip": "C:\\Users\\ecuri\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\IS - AURORA\\StartForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "StartForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-26T19:55:38.805Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "DepartmentForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
-              "DocumentMoniker": "G:\\\u0411\u0443\u043C\u0430\u0433\u0438\\Doc\\\u041F\u0420\u0418\u0421_2024\\Opa\\DepartmentForm.cs",
+              "DocumentMoniker": "C:\\Users\\ecuri\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\IS - AURORA\\DepartmentForm.cs",
               "RelativeDocumentMoniker": "DepartmentForm.cs",
-              "ToolTip": "G:\\\u0411\u0443\u043C\u0430\u0433\u0438\\Doc\\\u041F\u0420\u0418\u0421_2024\\Opa\\DepartmentForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "ToolTip": "C:\\Users\\ecuri\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\IS - AURORA\\DepartmentForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
               "RelativeToolTip": "DepartmentForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-02-23T18:21:57.78Z",
@@ -42,41 +87,51 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "MainForm.Designer.cs",
-              "DocumentMoniker": "G:\\\u0411\u0443\u043C\u0430\u0433\u0438\\Doc\\\u041F\u0420\u0418\u0421_2024\\Opa\\MainForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\ecuri\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\IS - AURORA\\MainForm.Designer.cs",
               "RelativeDocumentMoniker": "MainForm.Designer.cs",
-              "ToolTip": "G:\\\u0411\u0443\u043C\u0430\u0433\u0438\\Doc\\\u041F\u0420\u0418\u0421_2024\\Opa\\MainForm.Designer.cs",
+              "ToolTip": "C:\\Users\\ecuri\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\IS - AURORA\\MainForm.Designer.cs",
               "RelativeToolTip": "MainForm.Designer.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAANMAAABBAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-02-22T19:37:19.922Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "MainForm.cs",
-              "DocumentMoniker": "G:\\\u0411\u0443\u043C\u0430\u0433\u0438\\Doc\\\u041F\u0420\u0418\u0421_2024\\Opa\\MainForm.cs",
+              "DocumentMoniker": "C:\\Users\\ecuri\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\IS - AURORA\\MainForm.cs",
               "RelativeDocumentMoniker": "MainForm.cs",
-              "ToolTip": "G:\\\u0411\u0443\u043C\u0430\u0433\u0438\\Doc\\\u041F\u0420\u0418\u0421_2024\\Opa\\MainForm.cs",
+              "ToolTip": "C:\\Users\\ecuri\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\IS - AURORA\\MainForm.cs",
               "RelativeToolTip": "MainForm.cs",
-              "ViewState": "AQIAAHMAAAAAAAAAAAA1wJIAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADMAAABHAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-02-22T18:48:53.54Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 5,
               "Title": "MainForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
-              "DocumentMoniker": "G:\\\u0411\u0443\u043C\u0430\u0433\u0438\\Doc\\\u041F\u0420\u0418\u0421_2024\\Opa\\MainForm.cs",
+              "DocumentMoniker": "C:\\Users\\ecuri\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\IS - AURORA\\MainForm.cs",
               "RelativeDocumentMoniker": "MainForm.cs",
-              "ToolTip": "G:\\\u0411\u0443\u043C\u0430\u0433\u0438\\Doc\\\u041F\u0420\u0418\u0421_2024\\Opa\\MainForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "ToolTip": "C:\\Users\\ecuri\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\IS - AURORA\\MainForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
               "RelativeToolTip": "MainForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-02-22T18:48:35.246Z",
               "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 318,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
             }
           ]
         }
