@@ -167,11 +167,11 @@
             // 
             // button1
             // 
-            this.button1.Location = new System.Drawing.Point(218, 177);
+            this.button1.Location = new System.Drawing.Point(305, 226);
             this.button1.Name = "button1";
             this.button1.Size = new System.Drawing.Size(325, 122);
             this.button1.TabIndex = 0;
-            this.button1.Text = "Новая кнопка";
+            this.button1.Text = "Это выход";
             this.button1.Click += new System.EventHandler(this.button1_Click);
             // 
             // openFileDialog1

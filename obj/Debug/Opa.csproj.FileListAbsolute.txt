@@ -11,3 +11,29 @@ G:\Бумаги\Doc\ПРИС_2024\Opa\obj\Debug\Opa.MainForm.resources
 G:\Бумаги\Doc\ПРИС_2024\Opa\obj\Debug\Opa.DepartmentForm.resources
 G:\Бумаги\Doc\ПРИС_2024\Opa\obj\Debug\Opa.WorkerForm.resources
 G:\Бумаги\Doc\ПРИС_2024\Opa\bin\Debug\AuroraDB.accdb
+G:\Бумаги\Doc\ПРИС_2024\Aurora Git\bin\Debug\AuroraDB.accdb
+G:\Бумаги\Doc\ПРИС_2024\Aurora Git\bin\Debug\Opa.exe.config
+G:\Бумаги\Doc\ПРИС_2024\Aurora Git\bin\Debug\Opa.exe
+G:\Бумаги\Doc\ПРИС_2024\Aurora Git\bin\Debug\Opa.pdb
+G:\Бумаги\Doc\ПРИС_2024\Aurora Git\obj\Debug\Opa.csproj.AssemblyReference.cache
+G:\Бумаги\Doc\ПРИС_2024\Aurora Git\obj\Debug\Opa.DepartmentForm.resources
+G:\Бумаги\Doc\ПРИС_2024\Aurora Git\obj\Debug\Opa.MainForm.resources
+G:\Бумаги\Doc\ПРИС_2024\Aurora Git\obj\Debug\Opa.Properties.Resources.resources
+G:\Бумаги\Doc\ПРИС_2024\Aurora Git\obj\Debug\Opa.WorkerForm.resources
+G:\Бумаги\Doc\ПРИС_2024\Aurora Git\obj\Debug\Opa.csproj.GenerateResource.cache
+G:\Бумаги\Doc\ПРИС_2024\Aurora Git\obj\Debug\Opa.csproj.CoreCompileInputs.cache
+G:\Бумаги\Doc\ПРИС_2024\Aurora Git\obj\Debug\Opa.exe
+G:\Бумаги\Doc\ПРИС_2024\Aurora Git\obj\Debug\Opa.pdb
+C:\Users\ecuri\OneDrive\Рабочий стол\IS - AURORA\bin\Debug\AuroraDB.accdb
+C:\Users\ecuri\OneDrive\Рабочий стол\IS - AURORA\bin\Debug\Opa.exe.config
+C:\Users\ecuri\OneDrive\Рабочий стол\IS - AURORA\bin\Debug\Opa.exe
+C:\Users\ecuri\OneDrive\Рабочий стол\IS - AURORA\bin\Debug\Opa.pdb
+C:\Users\ecuri\OneDrive\Рабочий стол\IS - AURORA\obj\Debug\Opa.csproj.AssemblyReference.cache
+C:\Users\ecuri\OneDrive\Рабочий стол\IS - AURORA\obj\Debug\Opa.DepartmentForm.resources
+C:\Users\ecuri\OneDrive\Рабочий стол\IS - AURORA\obj\Debug\Opa.MainForm.resources
+C:\Users\ecuri\OneDrive\Рабочий стол\IS - AURORA\obj\Debug\Opa.Properties.Resources.resources
+C:\Users\ecuri\OneDrive\Рабочий стол\IS - AURORA\obj\Debug\Opa.WorkerForm.resources
+C:\Users\ecuri\OneDrive\Рабочий стол\IS - AURORA\obj\Debug\Opa.csproj.GenerateResource.cache
+C:\Users\ecuri\OneDrive\Рабочий стол\IS - AURORA\obj\Debug\Opa.csproj.CoreCompileInputs.cache
+C:\Users\ecuri\OneDrive\Рабочий стол\IS - AURORA\obj\Debug\Opa.exe
+C:\Users\ecuri\OneDrive\Рабочий стол\IS - AURORA\obj\Debug\Opa.pdb

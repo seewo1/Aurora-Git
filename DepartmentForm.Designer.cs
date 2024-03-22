@@ -49,15 +49,17 @@
             this.bindingNavigatorSeparator2 = new System.Windows.Forms.ToolStripSeparator();
             this.departmentTableAdapter = new Opa.AuroraDBDataSetTableAdapters.DepartmentTableAdapter();
             this.namingPanel = new System.Windows.Forms.Panel();
-            this.textBox1 = new System.Windows.Forms.TextBox();
-            this.comboBox1 = new System.Windows.Forms.ComboBox();
-            this.label1 = new System.Windows.Forms.Label();
-            this.label2 = new System.Windows.Forms.Label();
-            this.depAdd = new System.Windows.Forms.Button();
-            this.depDel = new System.Windows.Forms.Button();
-            this.depEdit = new System.Windows.Forms.Button();
-            this.depRefresh = new System.Windows.Forms.Button();
             this.depEndEdit = new System.Windows.Forms.Button();
+            this.depRefresh = new System.Windows.Forms.Button();
+            this.depEdit = new System.Windows.Forms.Button();
+            this.depDel = new System.Windows.Forms.Button();
+            this.depAdd = new System.Windows.Forms.Button();
+            this.label2 = new System.Windows.Forms.Label();
+            this.label1 = new System.Windows.Forms.Label();
+            this.type = new System.Windows.Forms.ComboBox();
+            this.title = new System.Windows.Forms.TextBox();
+            this.label3 = new System.Windows.Forms.Label();
+            this.timer1 = new System.Windows.Forms.Timer(this.components);
             ((System.ComponentModel.ISupportInitialize)(this.depTable)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.departmentBindingSource)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.auroraDBDataSetBindingSource)).BeginInit();
@@ -69,6 +71,7 @@
             // 
             // depTable
             // 
+            this.depTable.AllowUserToDeleteRows = false;
             this.depTable.AutoGenerateColumns = false;
             this.depTable.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
             this.depTable.Columns.AddRange(new System.Windows.Forms.DataGridViewColumn[] {
@@ -78,8 +81,10 @@
             this.depTable.DataSource = this.departmentBindingSource;
             this.depTable.Location = new System.Drawing.Point(26, 75);
             this.depTable.Name = "depTable";
-            this.depTable.Size = new System.Drawing.Size(343, 150);
+            this.depTable.SelectionMode = System.Windows.Forms.DataGridViewSelectionMode.FullRowSelect;
+            this.depTable.Size = new System.Drawing.Size(343, 317);
             this.depTable.TabIndex = 0;
+            this.depTable.SelectionChanged += new System.EventHandler(this.depTable_SelectionChanged);
             // 
             // titleDataGridViewTextBoxColumn
             // 
@@ -223,50 +228,52 @@
             this.namingPanel.Controls.Add(this.depAdd);
             this.namingPanel.Controls.Add(this.label2);
             this.namingPanel.Controls.Add(this.label1);
-            this.namingPanel.Controls.Add(this.comboBox1);
-            this.namingPanel.Controls.Add(this.textBox1);
+            this.namingPanel.Controls.Add(this.type);
+            this.namingPanel.Controls.Add(this.title);
             this.namingPanel.Location = new System.Drawing.Point(426, 75);
             this.namingPanel.Name = "namingPanel";
             this.namingPanel.Size = new System.Drawing.Size(297, 317);
             this.namingPanel.TabIndex = 2;
             // 
-            // textBox1
+            // depEndEdit
             // 
-            this.textBox1.Location = new System.Drawing.Point(24, 49);
-            this.textBox1.Name = "textBox1";
-            this.textBox1.Size = new System.Drawing.Size(249, 20);
-            this.textBox1.TabIndex = 0;
+            this.depEndEdit.Location = new System.Drawing.Point(24, 239);
+            this.depEndEdit.Name = "depEndEdit";
+            this.depEndEdit.Size = new System.Drawing.Size(249, 23);
+            this.depEndEdit.TabIndex = 8;
+            this.depEndEdit.Text = "Закончить редактирование";
+            this.depEndEdit.UseVisualStyleBackColor = true;
+            this.depEndEdit.Click += new System.EventHandler(this.depEndEdit_Click);
             // 
-            // comboBox1
+            // depRefresh
             // 
-            this.comboBox1.FormattingEnabled = true;
-            this.comboBox1.Items.AddRange(new object[] {
-            "Сборочный цех",
-            "Лаборатория",
-            "Склад",
-            "Отдел продаж"});
-            this.comboBox1.Location = new System.Drawing.Point(24, 103);
-            this.comboBox1.Name = "comboBox1";
-            this.comboBox1.Size = new System.Drawing.Size(249, 21);
-            this.comboBox1.TabIndex = 1;
+            this.depRefresh.Location = new System.Drawing.Point(24, 268);
+            this.depRefresh.Name = "depRefresh";
+            this.depRefresh.Size = new System.Drawing.Size(249, 23);
+            this.depRefresh.TabIndex = 7;
+            this.depRefresh.Text = "Обновить форму";
+            this.depRefresh.UseVisualStyleBackColor = true;
+            this.depRefresh.Click += new System.EventHandler(this.depRefresh_Click);
             // 
-            // label1
+            // depEdit
             // 
-            this.label1.AutoSize = true;
-            this.label1.Location = new System.Drawing.Point(21, 33);
-            this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(120, 13);
-            this.label1.TabIndex = 2;
-            this.label1.Text = "Название подраздела";
+            this.depEdit.Location = new System.Drawing.Point(112, 202);
+            this.depEdit.Name = "depEdit";
+            this.depEdit.Size = new System.Drawing.Size(75, 23);
+            this.depEdit.TabIndex = 6;
+            this.depEdit.Text = "Изменить";
+            this.depEdit.UseVisualStyleBackColor = true;
+            this.depEdit.Click += new System.EventHandler(this.depEdit_Click);
             // 
-            // label2
+            // depDel
             // 
-            this.label2.AutoSize = true;
-            this.label2.Location = new System.Drawing.Point(21, 87);
-            this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(107, 13);
-            this.label2.TabIndex = 3;
-            this.label2.Text = "Вид подразделения";
+            this.depDel.Location = new System.Drawing.Point(198, 202);
+            this.depDel.Name = "depDel";
+            this.depDel.Size = new System.Drawing.Size(75, 23);
+            this.depDel.TabIndex = 5;
+            this.depDel.Text = "Удалить";
+            this.depDel.UseVisualStyleBackColor = true;
+            this.depDel.Click += new System.EventHandler(this.depDel_Click);
             // 
             // depAdd
             // 
@@ -278,47 +285,64 @@
             this.depAdd.UseVisualStyleBackColor = true;
             this.depAdd.Click += new System.EventHandler(this.depAdd_Click);
             // 
-            // depDel
+            // label2
             // 
-            this.depDel.Location = new System.Drawing.Point(112, 202);
-            this.depDel.Name = "depDel";
-            this.depDel.Size = new System.Drawing.Size(75, 23);
-            this.depDel.TabIndex = 5;
-            this.depDel.Text = "Удалить";
-            this.depDel.UseVisualStyleBackColor = true;
+            this.label2.AutoSize = true;
+            this.label2.Location = new System.Drawing.Point(21, 87);
+            this.label2.Name = "label2";
+            this.label2.Size = new System.Drawing.Size(107, 13);
+            this.label2.TabIndex = 3;
+            this.label2.Text = "Вид подразделения";
             // 
-            // depEdit
+            // label1
             // 
-            this.depEdit.Location = new System.Drawing.Point(198, 202);
-            this.depEdit.Name = "depEdit";
-            this.depEdit.Size = new System.Drawing.Size(75, 23);
-            this.depEdit.TabIndex = 6;
-            this.depEdit.Text = "Изменить";
-            this.depEdit.UseVisualStyleBackColor = true;
+            this.label1.AutoSize = true;
+            this.label1.Location = new System.Drawing.Point(21, 33);
+            this.label1.Name = "label1";
+            this.label1.Size = new System.Drawing.Size(120, 13);
+            this.label1.TabIndex = 2;
+            this.label1.Text = "Название подраздела";
             // 
-            // depRefresh
+            // type
             // 
-            this.depRefresh.Location = new System.Drawing.Point(24, 268);
-            this.depRefresh.Name = "depRefresh";
-            this.depRefresh.Size = new System.Drawing.Size(249, 23);
-            this.depRefresh.TabIndex = 7;
-            this.depRefresh.Text = "Обновить форму";
-            this.depRefresh.UseVisualStyleBackColor = true;
+            this.type.FormattingEnabled = true;
+            this.type.Items.AddRange(new object[] {
+            "Сборочный цех",
+            "Лаборатория",
+            "Склад",
+            "Отдел продаж"});
+            this.type.Location = new System.Drawing.Point(24, 103);
+            this.type.Name = "type";
+            this.type.Size = new System.Drawing.Size(249, 21);
+            this.type.TabIndex = 1;
+            this.type.MouseClick += new System.Windows.Forms.MouseEventHandler(this.type_MouseClick);
             // 
-            // depEndEdit
+            // title
             // 
-            this.depEndEdit.Location = new System.Drawing.Point(24, 239);
-            this.depEndEdit.Name = "depEndEdit";
-            this.depEndEdit.Size = new System.Drawing.Size(249, 23);
-            this.depEndEdit.TabIndex = 8;
-            this.depEndEdit.Text = "Закончить редактирование";
-            this.depEndEdit.UseVisualStyleBackColor = true;
+            this.title.Location = new System.Drawing.Point(24, 49);
+            this.title.Name = "title";
+            this.title.Size = new System.Drawing.Size(249, 20);
+            this.title.TabIndex = 0;
+            this.title.MouseClick += new System.Windows.Forms.MouseEventHandler(this.title_MouseClick);
+            // 
+            // label3
+            // 
+            this.label3.AutoSize = true;
+            this.label3.Location = new System.Drawing.Point(423, 408);
+            this.label3.Name = "label3";
+            this.label3.Size = new System.Drawing.Size(0, 13);
+            this.label3.TabIndex = 3;
+            // 
+            // timer1
+            // 
+            this.timer1.Tick += new System.EventHandler(this.timer1_Tick);
             // 
             // DepartmentForm
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(800, 450);
+            this.Controls.Add(this.label3);
             this.Controls.Add(this.namingPanel);
             this.Controls.Add(this.bindingNavigator1);
             this.Controls.Add(this.depTable);
@@ -362,12 +386,14 @@
         private System.Windows.Forms.Panel namingPanel;
         private System.Windows.Forms.Label label2;
         private System.Windows.Forms.Label label1;
-        private System.Windows.Forms.ComboBox comboBox1;
-        private System.Windows.Forms.TextBox textBox1;
+        private System.Windows.Forms.ComboBox type;
+        private System.Windows.Forms.TextBox title;
         private System.Windows.Forms.Button depAdd;
         private System.Windows.Forms.Button depEdit;
         private System.Windows.Forms.Button depDel;
         private System.Windows.Forms.Button depRefresh;
         private System.Windows.Forms.Button depEndEdit;
+        private System.Windows.Forms.Label label3;
+        private System.Windows.Forms.Timer timer1;
     }
 }
