@@ -16,5 +16,15 @@ namespace Opa
         {
             InitializeComponent();
         }
+
+        private void WorkerForm_Load(object sender, EventArgs e)
+        {
+            // TODO: данная строка кода позволяет загрузить данные в таблицу "auroraDBDataSet.Department". При необходимости она может быть перемещена или удалена.
+            this.departmentTableAdapter.Fill(this.auroraDBDataSet.Department);
+            // TODO: данная строка кода позволяет загрузить данные в таблицу "auroraDBDataSet.Worker". При необходимости она может быть перемещена или удалена.
+            this.workerTableAdapter.Fill(this.auroraDBDataSet.Worker);
+
+        }
+
     }
 }

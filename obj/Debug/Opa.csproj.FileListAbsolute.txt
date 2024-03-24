@@ -24,3 +24,4 @@ G:\Бумаги\Doc\ПРИС_2024\Aurora Git\obj\Debug\Opa.csproj.GenerateResour
 G:\Бумаги\Doc\ПРИС_2024\Aurora Git\obj\Debug\Opa.csproj.CoreCompileInputs.cache
 G:\Бумаги\Doc\ПРИС_2024\Aurora Git\obj\Debug\Opa.exe
 G:\Бумаги\Doc\ПРИС_2024\Aurora Git\obj\Debug\Opa.pdb
+G:\Бумаги\Doc\ПРИС_2024\Aurora Git\obj\Debug\Opa.DepBossForm.resources
