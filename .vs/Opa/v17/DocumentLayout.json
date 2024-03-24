@@ -3,28 +3,44 @@
   "WorkspaceRootPath": "G:\\\u0411\u0443\u043C\u0430\u0433\u0438\\Doc\\\u041F\u0420\u0418\u0421_2024\\Aurora Git\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{97505F19-F593-4C7B-A624-826BD976D338}|Opa.csproj|G:\\\u0411\u0443\u043C\u0430\u0433\u0438\\Doc\\\u041F\u0420\u0418\u0421_2024\\Aurora Git\\departmentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{97505F19-F593-4C7B-A624-826BD976D338}|Opa.csproj|solutionrelative:departmentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{97505F19-F593-4C7B-A624-826BD976D338}|Opa.csproj|g:\\\u0431\u0443\u043C\u0430\u0433\u0438\\doc\\\u043F\u0440\u0438\u0441_2024\\aurora git\\departmentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{97505F19-F593-4C7B-A624-826BD976D338}|Opa.csproj|solutionrelative:departmentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{97505F19-F593-4C7B-A624-826BD976D338}|Opa.csproj|g:\\\u0431\u0443\u043C\u0430\u0433\u0438\\doc\\\u043F\u0440\u0438\u0441_2024\\aurora git\\departmentform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{97505F19-F593-4C7B-A624-826BD976D338}|Opa.csproj|solutionrelative:departmentform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{97505F19-F593-4C7B-A624-826BD976D338}|Opa.csproj|G:\\\u0411\u0443\u043C\u0430\u0433\u0438\\Doc\\\u041F\u0420\u0418\u0421_2024\\Aurora Git\\mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{97505F19-F593-4C7B-A624-826BD976D338}|Opa.csproj|solutionrelative:mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{97505F19-F593-4C7B-A624-826BD976D338}|Opa.csproj|G:\\\u0411\u0443\u043C\u0430\u0433\u0438\\Doc\\\u041F\u0420\u0418\u0421_2024\\Aurora Git\\workerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{97505F19-F593-4C7B-A624-826BD976D338}|Opa.csproj|solutionrelative:workerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{97505F19-F593-4C7B-A624-826BD976D338}|Opa.csproj|G:\\\u0411\u0443\u043C\u0430\u0433\u0438\\Doc\\\u041F\u0420\u0418\u0421_2024\\Aurora Git\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{97505F19-F593-4C7B-A624-826BD976D338}|Opa.csproj|solutionrelative:mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{97505F19-F593-4C7B-A624-826BD976D338}|Opa.csproj|g:\\\u0431\u0443\u043C\u0430\u0433\u0438\\doc\\\u043F\u0440\u0438\u0441_2024\\aurora git\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{97505F19-F593-4C7B-A624-826BD976D338}|Opa.csproj|g:\\\u0431\u0443\u043C\u0430\u0433\u0438\\doc\\\u043F\u0440\u0438\u0441_2024\\aurora git\\workerform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97505F19-F593-4C7B-A624-826BD976D338}|Opa.csproj|solutionrelative:workerform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97505F19-F593-4C7B-A624-826BD976D338}|Opa.csproj|g:\\\u0431\u0443\u043C\u0430\u0433\u0438\\doc\\\u043F\u0440\u0438\u0441_2024\\aurora git\\workerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97505F19-F593-4C7B-A624-826BD976D338}|Opa.csproj|solutionrelative:workerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97505F19-F593-4C7B-A624-826BD976D338}|Opa.csproj|g:\\\u0431\u0443\u043C\u0430\u0433\u0438\\doc\\\u043F\u0440\u0438\u0441_2024\\aurora git\\depbossform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{97505F19-F593-4C7B-A624-826BD976D338}|Opa.csproj|solutionrelative:depbossform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97505F19-F593-4C7B-A624-826BD976D338}|Opa.csproj|G:\\\u0411\u0443\u043C\u0430\u0433\u0438\\Doc\\\u041F\u0420\u0418\u0421_2024\\Aurora Git\\depbossform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97505F19-F593-4C7B-A624-826BD976D338}|Opa.csproj|solutionrelative:depbossform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97505F19-F593-4C7B-A624-826BD976D338}|Opa.csproj|G:\\\u0411\u0443\u043C\u0430\u0433\u0438\\Doc\\\u041F\u0420\u0418\u0421_2024\\Aurora Git\\depbossform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97505F19-F593-4C7B-A624-826BD976D338}|Opa.csproj|solutionrelative:depbossform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97505F19-F593-4C7B-A624-826BD976D338}|Opa.csproj|G:\\\u0411\u0443\u043C\u0430\u0433\u0438\\Doc\\\u041F\u0420\u0418\u0421_2024\\Aurora Git\\departmentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97505F19-F593-4C7B-A624-826BD976D338}|Opa.csproj|solutionrelative:departmentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97505F19-F593-4C7B-A624-826BD976D338}|Opa.csproj|G:\\\u0411\u0443\u043C\u0430\u0433\u0438\\Doc\\\u041F\u0420\u0418\u0421_2024\\Aurora Git\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{97505F19-F593-4C7B-A624-826BD976D338}|Opa.csproj|solutionrelative:mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97505F19-F593-4C7B-A624-826BD976D338}|Opa.csproj|G:\\\u0411\u0443\u043C\u0430\u0433\u0438\\Doc\\\u041F\u0420\u0418\u0421_2024\\Aurora Git\\departmentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{97505F19-F593-4C7B-A624-826BD976D338}|Opa.csproj|solutionrelative:departmentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,7 +50,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -51,70 +67,107 @@
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "DepartmentForm.Designer.cs",
-              "DocumentMoniker": "G:\\\u0411\u0443\u043C\u0430\u0433\u0438\\Doc\\\u041F\u0420\u0418\u0421_2024\\Aurora Git\\DepartmentForm.Designer.cs",
-              "RelativeDocumentMoniker": "DepartmentForm.Designer.cs",
-              "ToolTip": "G:\\\u0411\u0443\u043C\u0430\u0433\u0438\\Doc\\\u041F\u0420\u0418\u0421_2024\\Aurora Git\\DepartmentForm.Designer.cs",
-              "RelativeToolTip": "DepartmentForm.Designer.cs",
-              "ViewState": "AQIAADUAAAAAAAAAAAAAAFUAAAAnAAAA",
+              "Title": "WorkerForm.Designer.cs",
+              "DocumentMoniker": "G:\\\u0411\u0443\u043C\u0430\u0433\u0438\\Doc\\\u041F\u0420\u0418\u0421_2024\\Aurora Git\\WorkerForm.Designer.cs",
+              "RelativeDocumentMoniker": "WorkerForm.Designer.cs",
+              "ToolTip": "G:\\\u0411\u0443\u043C\u0430\u0433\u0438\\Doc\\\u041F\u0420\u0418\u0421_2024\\Aurora Git\\WorkerForm.Designer.cs",
+              "RelativeToolTip": "WorkerForm.Designer.cs",
+              "ViewState": "AQIAADoAAAAAAAAAAAAswE8AAAAqAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-25T13:04:32.07Z",
+              "WhenOpened": "2024-03-24T13:48:18.348Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "WorkerForm.cs",
+              "DocumentMoniker": "G:\\\u0411\u0443\u043C\u0430\u0433\u0438\\Doc\\\u041F\u0420\u0418\u0421_2024\\Aurora Git\\WorkerForm.cs",
+              "RelativeDocumentMoniker": "WorkerForm.cs",
+              "ToolTip": "G:\\\u0411\u0443\u043C\u0430\u0433\u0438\\Doc\\\u041F\u0420\u0418\u0421_2024\\Aurora Git\\WorkerForm.cs",
+              "RelativeToolTip": "WorkerForm.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAswBsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-24T13:48:05.307Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "DepartmentForm.cs",
-              "DocumentMoniker": "G:\\\u0411\u0443\u043C\u0430\u0433\u0438\\Doc\\\u041F\u0420\u0418\u0421_2024\\Aurora Git\\DepartmentForm.cs",
-              "RelativeDocumentMoniker": "DepartmentForm.cs",
-              "ToolTip": "G:\\\u0411\u0443\u043C\u0430\u0433\u0438\\Doc\\\u041F\u0420\u0418\u0421_2024\\Aurora Git\\DepartmentForm.cs",
-              "RelativeToolTip": "DepartmentForm.cs",
-              "ViewState": "AQIAADgAAAAAAAAAAAAmwFUAAAAUAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-25T13:03:57.47Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "DepartmentForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
-              "DocumentMoniker": "G:\\\u0411\u0443\u043C\u0430\u0433\u0438\\Doc\\\u041F\u0420\u0418\u0421_2024\\Aurora Git\\DepartmentForm.cs",
-              "RelativeDocumentMoniker": "DepartmentForm.cs",
-              "ToolTip": "G:\\\u0411\u0443\u043C\u0430\u0433\u0438\\Doc\\\u041F\u0420\u0418\u0421_2024\\Aurora Git\\DepartmentForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
-              "RelativeToolTip": "DepartmentForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-23T18:21:57.78Z",
-              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "MainForm.Designer.cs",
-              "DocumentMoniker": "G:\\\u0411\u0443\u043C\u0430\u0433\u0438\\Doc\\\u041F\u0420\u0418\u0421_2024\\Aurora Git\\MainForm.Designer.cs",
-              "RelativeDocumentMoniker": "MainForm.Designer.cs",
-              "ToolTip": "G:\\\u0411\u0443\u043C\u0430\u0433\u0438\\Doc\\\u041F\u0420\u0418\u0421_2024\\Aurora Git\\MainForm.Designer.cs",
-              "RelativeToolTip": "MainForm.Designer.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAMgAAAASAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-22T19:37:19.922Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
               "Title": "MainForm.cs",
               "DocumentMoniker": "G:\\\u0411\u0443\u043C\u0430\u0433\u0438\\Doc\\\u041F\u0420\u0418\u0421_2024\\Aurora Git\\MainForm.cs",
               "RelativeDocumentMoniker": "MainForm.cs",
               "ToolTip": "G:\\\u0411\u0443\u043C\u0430\u0433\u0438\\Doc\\\u041F\u0420\u0418\u0421_2024\\Aurora Git\\MainForm.cs",
               "RelativeToolTip": "MainForm.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAA+AAAA",
+              "ViewState": "AQIAAG4AAAAAAAAAAAAAwHwAAAApAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-22T18:48:53.54Z",
+              "WhenOpened": "2024-03-24T12:24:29.493Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WorkerForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "G:\\\u0411\u0443\u043C\u0430\u0433\u0438\\Doc\\\u041F\u0420\u0418\u0421_2024\\Aurora Git\\WorkerForm.cs",
+              "RelativeDocumentMoniker": "WorkerForm.cs",
+              "ToolTip": "G:\\\u0411\u0443\u043C\u0430\u0433\u0438\\Doc\\\u041F\u0420\u0418\u0421_2024\\Aurora Git\\WorkerForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "WorkerForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-24T11:42:04.469Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DepBossForm.Designer.cs",
+              "DocumentMoniker": "G:\\\u0411\u0443\u043C\u0430\u0433\u0438\\Doc\\\u041F\u0420\u0418\u0421_2024\\Aurora Git\\DepBossForm.Designer.cs",
+              "RelativeDocumentMoniker": "DepBossForm.Designer.cs",
+              "ToolTip": "G:\\\u0411\u0443\u043C\u0430\u0433\u0438\\Doc\\\u041F\u0420\u0418\u0421_2024\\Aurora Git\\DepBossForm.Designer.cs",
+              "RelativeToolTip": "DepBossForm.Designer.cs",
+              "ViewState": "AQIAAJgAAAAAAAAAAAAswKwAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-24T11:29:42.237Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
+              "Title": "DepBossForm.cs",
+              "DocumentMoniker": "G:\\\u0411\u0443\u043C\u0430\u0433\u0438\\Doc\\\u041F\u0420\u0418\u0421_2024\\Aurora Git\\DepBossForm.cs",
+              "RelativeDocumentMoniker": "DepBossForm.cs",
+              "ToolTip": "G:\\\u0411\u0443\u043C\u0430\u0433\u0438\\Doc\\\u041F\u0420\u0418\u0421_2024\\Aurora Git\\DepBossForm.cs",
+              "RelativeToolTip": "DepBossForm.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABwAAABIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-24T11:27:24.434Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DepBossForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "G:\\\u0411\u0443\u043C\u0430\u0433\u0438\\Doc\\\u041F\u0420\u0418\u0421_2024\\Aurora Git\\DepBossForm.cs",
+              "RelativeDocumentMoniker": "DepBossForm.cs",
+              "ToolTip": "G:\\\u0411\u0443\u043C\u0430\u0433\u0438\\Doc\\\u041F\u0420\u0418\u0421_2024\\Aurora Git\\DepBossForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "DepBossForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-24T11:10:22.123Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DepartmentForm.cs",
+              "DocumentMoniker": "G:\\\u0411\u0443\u043C\u0430\u0433\u0438\\Doc\\\u041F\u0420\u0418\u0421_2024\\Aurora Git\\DepartmentForm.cs",
+              "RelativeDocumentMoniker": "DepartmentForm.cs",
+              "ToolTip": "G:\\\u0411\u0443\u043C\u0430\u0433\u0438\\Doc\\\u041F\u0420\u0418\u0421_2024\\Aurora Git\\DepartmentForm.cs",
+              "RelativeToolTip": "DepartmentForm.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-25T13:03:57.47Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "MainForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
               "DocumentMoniker": "G:\\\u0411\u0443\u043C\u0430\u0433\u0438\\Doc\\\u041F\u0420\u0418\u0421_2024\\Aurora Git\\MainForm.cs",
               "RelativeDocumentMoniker": "MainForm.cs",
@@ -123,6 +176,17 @@
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-02-22T18:48:35.246Z",
               "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DepartmentForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "G:\\\u0411\u0443\u043C\u0430\u0433\u0438\\Doc\\\u041F\u0420\u0418\u0421_2024\\Aurora Git\\DepartmentForm.cs",
+              "RelativeDocumentMoniker": "DepartmentForm.cs",
+              "ToolTip": "G:\\\u0411\u0443\u043C\u0430\u0433\u0438\\Doc\\\u041F\u0420\u0418\u0421_2024\\Aurora Git\\DepartmentForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "DepartmentForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-23T18:21:57.78Z"
             }
           ]
         }
