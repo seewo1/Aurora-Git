@@ -25,3 +25,21 @@ G:\Бумаги\Doc\ПРИС_2024\Aurora Git\obj\Debug\Opa.csproj.CoreCompileInp
 G:\Бумаги\Doc\ПРИС_2024\Aurora Git\obj\Debug\Opa.exe
 G:\Бумаги\Doc\ПРИС_2024\Aurora Git\obj\Debug\Opa.pdb
 G:\Бумаги\Doc\ПРИС_2024\Aurora Git\obj\Debug\Opa.DepBossForm.resources
+E:\ПИЭ-21 Кожемякин\Aurora Git\bin\Debug\AuroraDB.accdb
+E:\ПИЭ-21 Кожемякин\Aurora Git\bin\Debug\Opa.exe.config
+E:\ПИЭ-21 Кожемякин\Aurora Git\bin\Debug\Opa.exe
+E:\ПИЭ-21 Кожемякин\Aurora Git\bin\Debug\Opa.pdb
+E:\ПИЭ-21 Кожемякин\Aurora Git\obj\Debug\Opa.csprojAssemblyReference.cache
+E:\ПИЭ-21 Кожемякин\Aurora Git\obj\Debug\Opa.DepartmentForm.resources
+E:\ПИЭ-21 Кожемякин\Aurora Git\obj\Debug\Opa.DepBossForm.resources
+E:\ПИЭ-21 Кожемякин\Aurora Git\obj\Debug\Opa.InfrastructureForm.resources
+E:\ПИЭ-21 Кожемякин\Aurora Git\obj\Debug\Opa.MainForm.resources
+E:\ПИЭ-21 Кожемякин\Aurora Git\obj\Debug\Opa.Properties.Resources.resources
+E:\ПИЭ-21 Кожемякин\Aurora Git\obj\Debug\Opa.WorkerForm.resources
+E:\ПИЭ-21 Кожемякин\Aurora Git\obj\Debug\Opa.csproj.GenerateResource.cache
+E:\ПИЭ-21 Кожемякин\Aurora Git\obj\Debug\Opa.csproj.CoreCompileInputs.cache
+E:\ПИЭ-21 Кожемякин\Aurora Git\obj\Debug\Opa.exe
+E:\ПИЭ-21 Кожемякин\Aurora Git\obj\Debug\Opa.pdb
+E:\ПИЭ-21 Кожемякин\Aurora Git\obj\Debug\Opa.StatusInfForm.resources
+G:\Бумаги\Doc\ПРИС_2024\Aurora Git\obj\Debug\Opa.InfrastructureForm.resources
+G:\Бумаги\Doc\ПРИС_2024\Aurora Git\obj\Debug\Opa.StatusInfForm.resources

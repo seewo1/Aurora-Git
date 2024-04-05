@@ -3,7 +3,7 @@
   "WorkspaceRootPath": "G:\\\u0411\u0443\u043C\u0430\u0433\u0438\\Doc\\\u041F\u0420\u0418\u0421_2024\\Aurora Git\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{97505F19-F593-4C7B-A624-826BD976D338}|Opa.csproj|G:\\\u0411\u0443\u043C\u0430\u0433\u0438\\Doc\\\u041F\u0420\u0418\u0421_2024\\Aurora Git\\workerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{97505F19-F593-4C7B-A624-826BD976D338}|Opa.csproj|g:\\\u0431\u0443\u043C\u0430\u0433\u0438\\doc\\\u043F\u0440\u0438\u0441_2024\\aurora git\\workerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{97505F19-F593-4C7B-A624-826BD976D338}|Opa.csproj|solutionrelative:workerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
@@ -11,15 +11,15 @@
       "RelativeMoniker": "D:0:0:{97505F19-F593-4C7B-A624-826BD976D338}|Opa.csproj|solutionrelative:mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{97505F19-F593-4C7B-A624-826BD976D338}|Opa.csproj|g:\\\u0431\u0443\u043C\u0430\u0433\u0438\\doc\\\u043F\u0440\u0438\u0441_2024\\aurora git\\workerform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{97505F19-F593-4C7B-A624-826BD976D338}|Opa.csproj|G:\\\u0411\u0443\u043C\u0430\u0433\u0438\\Doc\\\u041F\u0420\u0418\u0421_2024\\Aurora Git\\workerform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{97505F19-F593-4C7B-A624-826BD976D338}|Opa.csproj|solutionrelative:workerform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{97505F19-F593-4C7B-A624-826BD976D338}|Opa.csproj|g:\\\u0431\u0443\u043C\u0430\u0433\u0438\\doc\\\u043F\u0440\u0438\u0441_2024\\aurora git\\workerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{97505F19-F593-4C7B-A624-826BD976D338}|Opa.csproj|G:\\\u0411\u0443\u043C\u0430\u0433\u0438\\Doc\\\u041F\u0420\u0418\u0421_2024\\Aurora Git\\workerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{97505F19-F593-4C7B-A624-826BD976D338}|Opa.csproj|solutionrelative:workerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{97505F19-F593-4C7B-A624-826BD976D338}|Opa.csproj|g:\\\u0431\u0443\u043C\u0430\u0433\u0438\\doc\\\u043F\u0440\u0438\u0441_2024\\aurora git\\depbossform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{97505F19-F593-4C7B-A624-826BD976D338}|Opa.csproj|G:\\\u0411\u0443\u043C\u0430\u0433\u0438\\Doc\\\u041F\u0420\u0418\u0421_2024\\Aurora Git\\depbossform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{97505F19-F593-4C7B-A624-826BD976D338}|Opa.csproj|solutionrelative:depbossform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
@@ -100,8 +100,7 @@
               "RelativeToolTip": "MainForm.cs",
               "ViewState": "AQIAAG4AAAAAAAAAAAAAwHwAAAApAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-24T12:24:29.493Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-24T12:24:29.493Z"
             },
             {
               "$type": "Document",
@@ -125,8 +124,7 @@
               "RelativeToolTip": "DepBossForm.Designer.cs",
               "ViewState": "AQIAAJgAAAAAAAAAAAAswKwAAAAoAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-24T11:29:42.237Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-24T11:29:42.237Z"
             },
             {
               "$type": "Document",
@@ -138,8 +136,7 @@
               "RelativeToolTip": "DepBossForm.cs",
               "ViewState": "AQIAAAkAAAAAAAAAAAAAABwAAABIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-24T11:27:24.434Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-24T11:27:24.434Z"
             },
             {
               "$type": "Document",
@@ -150,8 +147,7 @@
               "ToolTip": "G:\\\u0411\u0443\u043C\u0430\u0433\u0438\\Doc\\\u041F\u0420\u0418\u0421_2024\\Aurora Git\\DepBossForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
               "RelativeToolTip": "DepBossForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-24T11:10:22.123Z",
-              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+              "WhenOpened": "2024-03-24T11:10:22.123Z"
             },
             {
               "$type": "Document",
@@ -174,8 +170,7 @@
               "ToolTip": "G:\\\u0411\u0443\u043C\u0430\u0433\u0438\\Doc\\\u041F\u0420\u0418\u0421_2024\\Aurora Git\\MainForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
               "RelativeToolTip": "MainForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-22T18:48:35.246Z",
-              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+              "WhenOpened": "2024-02-22T18:48:35.246Z"
             },
             {
               "$type": "Document",

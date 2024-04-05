@@ -380,9 +380,6 @@
         private System.Windows.Forms.ToolStripSeparator bindingNavigatorSeparator2;
         private System.Windows.Forms.BindingSource departmentBindingSource;
         private AuroraDBDataSetTableAdapters.DepartmentTableAdapter departmentTableAdapter;
-        private System.Windows.Forms.DataGridViewTextBoxColumn titleDataGridViewTextBoxColumn;
-        private System.Windows.Forms.DataGridViewTextBoxColumn typeDataGridViewTextBoxColumn;
-        private System.Windows.Forms.DataGridViewCheckBoxColumn editDataGridViewCheckBoxColumn;
         private System.Windows.Forms.Panel namingPanel;
         private System.Windows.Forms.Label label2;
         private System.Windows.Forms.Label label1;
@@ -395,5 +392,8 @@
         private System.Windows.Forms.Button depEndEdit;
         private System.Windows.Forms.Label label3;
         private System.Windows.Forms.Timer timer1;
+        private System.Windows.Forms.DataGridViewTextBoxColumn titleDataGridViewTextBoxColumn;
+        private System.Windows.Forms.DataGridViewTextBoxColumn typeDataGridViewTextBoxColumn;
+        private System.Windows.Forms.DataGridViewCheckBoxColumn editDataGridViewCheckBoxColumn;
     }
 }
