@@ -144,16 +144,5 @@ namespace Opa
             }
 
         }
-
-        private void openFileDialog1_FileOk(object sender, CancelEventArgs e)
-        {
-
-        }
-
-        private void оПрограммеToolStripMenuItem_Click(object sender, EventArgs e)
-        {
-			VersProgramForm VersProgram = new VersProgramForm(); // создаем объект типа Form2
-			VersProgram.Show();
-		}
     }
 }

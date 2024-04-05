@@ -88,7 +88,6 @@
 			this.оПрограммеToolStripMenuItem.Name = "оПрограммеToolStripMenuItem";
 			this.оПрограммеToolStripMenuItem.Size = new System.Drawing.Size(261, 40);
 			this.оПрограммеToolStripMenuItem.Text = "О программе";
-			this.оПрограммеToolStripMenuItem.Click += new System.EventHandler(this.оПрограммеToolStripMenuItem_Click);
 			// 
 			// выходToolStripMenuItem
 			// 
@@ -177,11 +176,6 @@
 			this.button1.TabIndex = 0;
 			this.button1.Text = "Это выход";
 			this.button1.Click += new System.EventHandler(this.button1_Click);
-			// 
-			// openFileDialog1
-			// 
-			this.openFileDialog1.FileName = "openFileDialog1";
-			this.openFileDialog1.FileOk += new System.ComponentModel.CancelEventHandler(this.openFileDialog1_FileOk);
 			// 
 			// MainForm
 			// 
