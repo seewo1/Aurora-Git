@@ -85,6 +85,12 @@
     <Compile Include="StatusInfForm.Designer.cs">
       <DependentUpon>StatusInfForm.cs</DependentUpon>
     </Compile>
+    <Compile Include="VersProgramForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="VersProgramForm.Designer.cs">
+      <DependentUpon>VersProgramForm.cs</DependentUpon>
+    </Compile>
     <Compile Include="WorkerForm.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -109,6 +115,9 @@
       <AutoGen>True</AutoGen>
       <DependentUpon>Resources.resx</DependentUpon>
     </Compile>
+    <EmbeddedResource Include="VersProgramForm.resx">
+      <DependentUpon>VersProgramForm.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="WorkerForm.resx">
       <DependentUpon>WorkerForm.cs</DependentUpon>
     </EmbeddedResource>
