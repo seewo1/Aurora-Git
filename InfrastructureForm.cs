@@ -16,5 +16,12 @@ namespace Opa
         {
             InitializeComponent();
         }
+
+        private void InfrastructureForm_Load(object sender, EventArgs e)
+        {
+            // TODO: данная строка кода позволяет загрузить данные в таблицу "auroraDBDataSet.Infrastructure". При необходимости она может быть перемещена или удалена.
+            this.infrastructureTableAdapter.Fill(this.auroraDBDataSet.Infrastructure);
+
+        }
     }
 }

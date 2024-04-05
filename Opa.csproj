@@ -97,6 +97,9 @@
     <EmbeddedResource Include="DepBossForm.resx">
       <DependentUpon>DepBossForm.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="InfrastructureForm.resx">
+      <DependentUpon>InfrastructureForm.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="MainForm.resx">
       <DependentUpon>MainForm.cs</DependentUpon>
     </EmbeddedResource>
@@ -109,6 +112,9 @@
       <AutoGen>True</AutoGen>
       <DependentUpon>Resources.resx</DependentUpon>
     </Compile>
+    <EmbeddedResource Include="StatusInfForm.resx">
+      <DependentUpon>StatusInfForm.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="WorkerForm.resx">
       <DependentUpon>WorkerForm.cs</DependentUpon>
     </EmbeddedResource>
